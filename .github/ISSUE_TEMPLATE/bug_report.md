@@ -14,7 +14,7 @@ Please check if there is an existing issue of your bug already present in this t
 
 **Before you start please fill out this short checklist;**
 
-- [ ] Are you using tools to provide root access (Magisk, KernelSU etc.) \
+- [ ] Are you using tools to provide root access (Magisk, KernelSU etc.)
 - [ ] If yes, are you using any modules. (List them out below)
 
 ### Description
@@ -69,6 +69,6 @@ If applicable, please provide any relevant screenshots or logcats that demonstra
 
 *   **Screenshots:** (Drag and drop images here or link to an image host)
 *   **Logcat:** (Please paste relevant portions of a logcat if available. You can obtain a logcat using `adb logcat > logcat.txt`)
-
+---
 
 - [ ] I will open one issue per bug, follow the issue format and will add `[BUG]` to the start of my issue title, and I acknowledge that if I don't follow the format, my issue might get closed without further explanation.
