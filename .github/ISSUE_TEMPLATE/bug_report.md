@@ -14,8 +14,8 @@ Please check if there is an existing issue of your bug already present in this t
 
 **Before you start please fill out this short checklist;**
 
-- [ ] Are you using tools to provide root access (Magisk, KernelSU etc.)
-- [ ] If yes, are you using any modules. (List them out below)
+- [ ] Are you using tools to provide root access? (Magisk, KernelSU etc.)
+- [ ] If yes, are you using any modules? (List them out below)
 
 ### Description
 
@@ -41,9 +41,7 @@ Please list the exact steps required to reproduce the bug. The more detailed and
 4.
 ... (add more steps as needed)
 
----
-
-### Additional Conditions to Replicate (Optional)
+#### Additional Conditions to Replicate (Optional)
 
 Mention if there any specific conditions, configurations, or circumstances that are necessary for this bug to occur. This could include:
 
@@ -72,3 +70,14 @@ If applicable, please provide any relevant screenshots or logcats that demonstra
 ---
 
 - [ ] I will open one issue per bug, follow the issue format and will add `[BUG]` to the start of my issue title, and I acknowledge that if I don't follow the format, my issue might get closed without further explanation.
+
+---
+
+### For External Builders / Developers
+
+If you are maintaining your builds using our trees and are hoping to get something addressed upstream, please provide additional context that might be helpful:
+
+*   **Which repository/project are you maintaining in relation to this issue?**
+*   **What is the impact of this bug on your project or maintenance efforts?**
+*   **Are there any workarounds you are currently employing or considering?** (Please link relavant commits if there are any)
+*   **Is this bug blocking any critical development or release for your project?** 
