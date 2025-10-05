@@ -1,7 +1,7 @@
 # LineageOS Downloads
 
 ### Requirements
-The latest Android 15 firmware (Pacman-V3.2-250815-1642), an [unlocked bootloader](https://github.com/spike0en/nothing_archive#ii-unlocking-bootloader-) and USB debugging enabled from developer options.
+The latest Android 15 firmware, an [unlocked bootloader](https://github.com/spike0en/nothing_archive#ii-unlocking-bootloader-) and USB debugging enabled from developer options.
 
 The latest LineageOS .zip package and boot, super_empty and vendor_boot .img files for Pacman available [here](https://github.com/Nothing-2A/releases/releases).
 
@@ -64,17 +64,17 @@ Answer: The latest firmware available for Pacman is included on the LineageOS .z
 
 **Q2: Are Google Apps included with LineageOS ?**
 
-Answer: Yes they are, however it's a very minimal list of Google Apps that are included with the LineageOS .zip package which give you access to the Google Mobile Services.
+Answer: Yes they are, however it's a very minimal list of Google Apps that are included with the LineageOS .zip package which give you access to the Google Mobile Services, you can check the list on [MindTheGapps gitlab](https://gitlab.com/MindTheGapps/vendor_gapps).
 
 **Q3: Will there be any Google Apps free release of LineageOS ?**
 
-Answer: Maybe, but it isn't planned at the moment with the **UNOFFICIAL** release of LineageOS, however they will most likely come Google Apps free and without any [fenrir]() support if I apply for **OFFICIAL** one day.
+Answer: Maybe, but it isn't planned at the moment with the **UNOFFICIAL** release of LineageOS, however they will most likely come Google Apps free and without any [fenrir](https://github.com/r0rt1z2/fenrir) support if I apply for **OFFICIAL** one day.
 
 **Q4: Is the LineageOS .zip package is signed and passes SafetyNet and Play Integrity ?**
 
-Answer: No, however you can flash fenrir to pass BASIC_INTEGRITY, DEVICE_INTEGRITY and STRONG_INTEGRITY !
+Answer: No, however you can flash [fenrir](https://github.com/r0rt1z2/fenrir) to pass BASIC_INTEGRITY, DEVICE_INTEGRITY and STRONG_INTEGRITY !
 
-I personnally recommend you to flash fenrir on both lk slots from the bootloader directly after flashing LineageOS.
+I personnally recommend you to flash [fenrir](https://github.com/r0rt1z2/fenrir) on both lk slots from the bootloader directly after flashing LineageOS.
 
 **Q5: How do I update to another release of LineageOS ?**
 
