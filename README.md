@@ -1,7 +1,7 @@
 # LineageOS Downloads
 
 ### Requirements
-The latest Android 15 firmware, an [unlocked bootloader](https://github.com/spike0en/nothing_archive#ii-unlocking-bootloader-) and USB debugging enabled from developer options.
+The latest Android 16 firmware, an [unlocked bootloader](https://github.com/spike0en/nothing_archive#ii-unlocking-bootloader-) and USB debugging enabled from developer options.
 
 The latest LineageOS .zip package and boot, super_empty and vendor_boot .img files for Pacman available [here](https://github.com/Nothing-2A/releases/releases).
 
